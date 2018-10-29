@@ -23,3 +23,5 @@ Planned:
   Destructible environment.
   Turn collision detection back on and include indoor parts of the map.
   Ground-fill.
+
+https://github.com/ikarishev/Wolf3d/blob/master/Screen%20Shot%202018-10-29%20at%202.47.33%20PM.png
