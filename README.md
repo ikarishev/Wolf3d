@@ -3,6 +3,7 @@ Work in progress.
 Attempting to utilize raycasting to create an outdoor world area using the 42-School's provided graphics library.
 
 Finished:
+
   Smooth WASD movement.
   
   Skybox.
@@ -11,6 +12,7 @@ Finished:
   
 
 Needs improvement:
+
   Rotation based on mouse movement. (minilibx doesn't seem to be able to lock the mouse to the
   
   center of the screen, so if the window is moved rotation might not work when mouse it at the
@@ -23,7 +25,7 @@ Needs improvement:
   
   Texture resolution is at 64 x 64, Trivial to increase size, but as a demonstration this is enough.
   
-    Also need to be re-drawn to enhance illusion of perspective.
+  Also need to be re-drawn to enhance illusion of perspective.
     
   Skybox is super ugly.
   
