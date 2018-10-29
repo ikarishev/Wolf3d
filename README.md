@@ -10,7 +10,8 @@ Finished:
   
   Multiple textures to simulate outdoors.
   
-
+ 
+ 
 Needs improvement:
 
   Rotation based on mouse movement. (minilibx doesn't seem to be able to lock the mouse to the
@@ -27,10 +28,9 @@ Needs improvement:
   
   Also need to be re-drawn to enhance illusion of perspective.
     
-  Skybox is super ugly.
-  
-
-
+  Skybox is super ugly.  
+ 
+ 
 Planned:
 
   Sprite based enemies.
